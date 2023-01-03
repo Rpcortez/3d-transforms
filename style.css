@@ -1,0 +1,8 @@
+.box{
+    width: 130px;
+    height: 100px;
+    background-color: yellow;
+    text-align: center;
+    border: 10px soild transparent;
+    transform: perspective(500px) rotateX(-24deg) rotateY(171deg) scale(1.05);
+}  
